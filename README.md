@@ -55,7 +55,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Stats
+#### Stats:
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Jvfc745&theme=green-nur&hide_border=true&border=297F51&background=45%2C000000%2C021A10&stroke=0AEBA6)](https://git.io/streak-stats)
 
 
