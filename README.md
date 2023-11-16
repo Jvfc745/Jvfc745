@@ -40,7 +40,8 @@
 
 #### Studying in this moment:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)&nbsp;
 ![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 
 #### Databases:
