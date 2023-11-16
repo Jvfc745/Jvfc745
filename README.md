@@ -1,5 +1,7 @@
+<!---
 <img align="center" style="margin-bottom:100px" width=100% src="assets/cover_cropped.png" />
 &nbsp;
+-->
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -33,9 +35,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-
+<!---
 <img src="assets/side_compressed.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+-->
 
 
 #### Studying in this moment:
