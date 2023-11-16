@@ -14,7 +14,7 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<p align="center">Focused on learning Data Science</p>&nbsp;
+<p align="center">Learning Data Science</p>&nbsp;
 
 - 🌱 I’m currently learning Python, AI, Machine Learning, React, NodeJS &nbsp;
 - 🏰 I’m currently studying Computer Science at UNIFESP - Universidade Federal de São Paulo &nbsp;
