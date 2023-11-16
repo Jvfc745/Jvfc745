@@ -56,7 +56,19 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Jvfc745&theme=green-nur)](https://git.io/streak-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Jvfc745&show_icons=true&theme=gotham"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Jvfc745&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvfc745&show_icons=true" />
+</picture>
+
+
 &nbsp;
 &nbsp;
 
