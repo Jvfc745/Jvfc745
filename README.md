@@ -17,6 +17,7 @@
 <p align="center">Learning Data Science</p>&nbsp;
 
 - 🌱 I’m currently learning Python, AI, Machine Learning, React, NodeJS &nbsp;
+- 🌱 I have knowledge in web development.
 - 🏰 I’m currently studying Computer Science at UNIFESP - Universidade Federal de São Paulo &nbsp;
 - ⚡ Fun fact: Math addict&nbsp;
  &nbsp;
