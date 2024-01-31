@@ -24,20 +24,12 @@
 ## My Skills
 
 #### Main Stack:
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <!---
 <img src="assets/side_compressed.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 -->
-
-
-#### Studying in this moment:
-
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)&nbsp;
-![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
-
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -47,7 +39,6 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 &nbsp;
 &nbsp;
 
@@ -55,9 +46,7 @@
 
 <div> 
 <a href = "mailto:joaocolombini.jvfc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+
 
   
 <!---
